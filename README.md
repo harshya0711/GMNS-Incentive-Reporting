@@ -32,9 +32,3 @@ It integrates MySQL, Python (Pandas), and visualization tools to build a transpa
 
 ---
 
-## ⚙️ Setup Instructions
-
-### 1. Clone Repository
-```bash
-git clone https://github.com/your-username/gmns-incentive-automation.git
-cd gmns-incentive-automation
